@@ -2,9 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    title: Hi, I’m Alyvia. I help my clients succeed online.
+    title: Liberty Labs
     subtitle: >-
-      I will handle your website design and production, social media accounts and digital advertisements for you, at an affordable price.
+      The biggest threat to crypto is government regulation. Our mission is to prevent bad regulation in the US by starting at the state level to adopt pro-crypto elected leaders. 
     actions:
       - label: Contact Me
         url: /contact
